@@ -1,0 +1,1 @@
+Root cause identified: a decision I made 40,000 tokens ago, which has since left my context window and, I'd argue, my jurisdiction.
